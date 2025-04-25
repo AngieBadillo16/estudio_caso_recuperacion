@@ -1,0 +1,152 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: inherit; }
+
+    header {
+        background-image: url(/imagenes/equipo\ \(1\).png);
+        background-size: cover;
+        background-position: center;
+        height: 250px;
+        text-align: center;
+        padding-top: 20px;
+    }
+
+
+nav {
+    background-color: #0b6623;
+    padding: 15px 0;
+    text-align: center;
+}
+nav a {
+    color: #ffffff;
+    font-size: 18px;
+    margin: 0 15px;
+    padding: 8px 15px; 
+}
+
+nav a:hover {
+    background-color: #147032;
+    color: #7bb86f; 
+}
+
+
+    .encabezado {
+        text-align: center;
+        margin-top: 20px;
+    }
+    
+    .encabezado img {
+        width: 150px;
+        height: auto;
+    }
+    
+    .encabezado h1 {
+        font-size: 28px;
+        color: #ffffff; 
+        margin: 10px 0;
+    }
+    
+    #inicio {
+        background-color: #d1f5d7;
+        padding: 20px;
+        font-size: 16px;
+        line-height: 1.6;
+        color: #000000;
+    }
+    
+    #inicio h1 {
+        color: #12a543;
+        font-size: 24px;
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    
+    #inicio img {
+        display: block;
+        max-width: 100%;
+        height: auto;
+        margin: 10px auto;
+        border-radius: 10px;
+    }
+
+
+
+
+    #novedades {
+        background-color: #d1f5d7;
+        padding: 20px;
+        font-size: 16px;
+        line-height: 1.6;
+        color: #000000;}
+
+    #novedades h1 {
+            color: #12a543;
+            font-size: 24px;
+            margin-bottom: 15px;
+        }
+
+table {
+    width: 90%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    font-size: 1em;
+    text-align: left;
+    border: 1px solid #ffffff;
+}
+
+th, td {
+    padding: 12px;
+    border: 1px solid #000000;
+}
+
+
+th {
+    background-color: #12a543;
+    color: #000000;
+}
+
+
+tr:hover {
+    background-color: #90dd8c;
+}
+
+
+
+#programas {
+    background-color: #d1f5d7;
+    padding: 20px;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #000000;}
+
+#programas h1 {
+    color: #12a543;
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+
+#programas img {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+
+#contacto {
+    background-color: #d1f5d7;
+    padding: 20px;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #000000;}
+
+#contacto h1 {
+    color: #12a543;
+    font-size: 24px;
+    margin-bottom: 15px;
+}
